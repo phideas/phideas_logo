@@ -15,7 +15,10 @@
    id="svg3211"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="phideas_avatar_512.svg">
+   sodipodi:docname="phideas_avatar_512.svg"
+   inkscape:export-filename="/home/gabo/phideas_logo/PNG/phideas_avatar_128.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
   <defs
      id="defs3213">
     <linearGradient
@@ -67,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
